@@ -5,13 +5,19 @@
 <h3>Hi 👋, I'm Kesav </h3>
 <p>I am a Next.js TypeScript Developer. I Like working on AI products. OpenSource is my go to path for learning, upskiling and remaining passionate as a developer.</p>
 
-<h6>PS: I also go by Hari on various platforms</h6>
 <div>
 
 <br/>
-<h4>I like working with:</h4>
+✅ Frameworks: React,Next 12/13, Express<br>
+✅ Styles: Tailwind, Radix UI, MUI, Figma<br />
+✅ Scripts: JavaScript, TypeScript, Python<br />
+✅ Sources: GraphQL, RESTful, Markdown<br />
+✅ Deployment: Vercel, AWS, Digital Ocean<br />
+✅ Devtools: Git, Docker, VSCode<br />
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<h6>PS: I also go by Hari on various platforms</h6>
+
+<!-- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -28,7 +34,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) -->
 
 <!-- ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) -->
 <!-- ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
