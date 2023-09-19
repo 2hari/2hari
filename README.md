@@ -5,6 +5,7 @@
 <h3>Hi 👋, I'm Kesav </h3>
 <p>I am a Next.js TypeScript Developer. I Like working on AI products. OpenSource is my go to path for learning, upskiling and remaining passionate as a developer.</p>
 
+<h6>PS: I also go by Hari on various platforms</h6>
 <div>
 
 <br/>
