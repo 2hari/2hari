@@ -1,5 +1,6 @@
 ![banner](https://github.com/2hari/2hari/assets/73457568/649a6426-ebce-4312-91e4-c769218f2980)
 <br/>
+<br/>
 
 <h3>Hi 👋, I'm Kesav </h3>
 <p>I am a Next.js TypeScript Developer. I Like working on AI products. OpenSource is my go to path for learning, upskiling and remaining passionate as a developer.</p>
