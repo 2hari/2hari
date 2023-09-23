@@ -9,7 +9,6 @@
 <div>
 
 <br/>
-<br/>
 
 <table>
 <tr>
@@ -17,7 +16,7 @@
 <th align="center">✅ Full Stack Skills</th>
 </tr>
 <tr>
-<td width="50%">
+<td width="500px">
 <ul>
 <li>OpenAI Completion & Embeddings API</li>
 <li>GPT3/3.5/4, DALL-E, Whisper, Codex</li>
@@ -27,7 +26,7 @@
 <li>Deployment on HuggingFace, Replicate</li>
 </ul>  
 </td>
-<td width="50%">
+<td width="500px">
 <ul>
 <li>Frameworks: React,Next 12/13, Express</li>
 <li>Styles: Tailwind, Radix UI, MUI, Figma</li>
