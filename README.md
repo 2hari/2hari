@@ -8,12 +8,25 @@
 <div>
 
 <br/>
-✅ Frameworks: React,Next 12/13, Express<br>
-✅ Styles: Tailwind, Radix UI, MUI, Figma<br />
-✅ Scripts: JavaScript, TypeScript, Python<br />
-✅ Sources: GraphQL, RESTful, Markdown<br />
-✅ Deployment: Vercel, AWS, Digital Ocean<br />
-✅ Devtools: Git, Docker, VSCode<br />
+<br/>
+
+✅ AI Skils ✨: 
+- Open AI Completion API, Embeddings API, GPT3/3.5/4 
+- DALL-E, Whisper, Codex 
+- Stable Diffusion & derived Models like ControlNet
+- Chatpots, Media Generators
+- Pincone, Supabase Vector Databases
+- Deployment on HuggingFace, Replicate
+<br/>
+
+✅ Full Stack Skils
+
+- Frameworks: React,Next 12/13, Express<br>
+- Styles: Tailwind, Radix UI, MUI, Figma<br />
+- Scripts: JavaScript, TypeScript, Python<br />
+- Sources: GraphQL, RESTful, Markdown<br />
+- Deployment: Vercel, AWS, Digital Ocean<br />
+- Devtools: Git, Docker, VSCode<br />
 
 <h6>PS: I also go by Hari on various platforms</h6>
 
