@@ -10,7 +10,7 @@
 <br/>
 <br/>
 
-✅ AI Skils ✨: 
+✅ AI Skills ✨: 
 - Open AI Completion API, Embeddings API, GPT3/3.5/4 
 - DALL-E, Whisper, Codex 
 - Stable Diffusion & derived Models like ControlNet
@@ -19,7 +19,7 @@
 - Deployment on HuggingFace, Replicate
 <br/>
 
-✅ Full Stack Skils
+✅ Full Stack Skills
 
 - Frameworks: React,Next 12/13, Express<br>
 - Styles: Tailwind, Radix UI, MUI, Figma<br />
