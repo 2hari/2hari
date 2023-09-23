@@ -4,29 +4,48 @@
 
 <h3>Hi 👋, I'm Kesav </h3>
 <p>I am a Next.js TypeScript Developer. I Like working on AI products. OpenSource is my go to path for learning, upskiling and remaining passionate as a developer.</p>
+<p>You can check My best opensoruce work in pinned repos below 👇</p>
 
 <div>
 
 <br/>
 <br/>
 
-✅ AI Skills ✨: 
-- Open AI Completion API, Embeddings API, GPT3/3.5/4 
-- DALL-E, Whisper, Codex 
-- Stable Diffusion & derived Models like ControlNet
-- Chatpots, Media Generators
-- Pincone, Supabase Vector Databases
-- Deployment on HuggingFace, Replicate
+<table>
+<tr>
+<th align="center">✅ AI Skills ✨</th>
+<th align="center">✅ Full Stack Skills</th>
+</tr>
+<tr>
+<td width="50%">
+<ul>
+<li>OpenAI Completion & Embeddings API</li>
+<li>GPT3/3.5/4, DALL-E, Whisper, Codex</li>
+<li>Stable Diffusion & similiar ControlNet</li>
+<li>Chatbots, Media Generators</li>
+<li>Pincone, Supabase Vector Databases</li>
+<li>Deployment on HuggingFace, Replicate</li>
+</ul>  
+</td>
+<td width="50%">
+<ul>
+<li>Frameworks: React,Next 12/13, Express</li>
+<li>Styles: Tailwind, Radix UI, MUI, Figma</li>
+<li>Scripts: JavaScript, TypeScript, Python</li>
+<li>Sources: GraphQL, RESTful, Markdown</li>
+<li>Deploy: Vercel, AWS, Digital Ocean</li>
+<li>Devtools: Git, Docker, VSCode</li>
+</ul>
+</td>
+</tr>
+</table>
+
+
+
 <br/>
 
-✅ Full Stack Skills
 
-- Frameworks: React,Next 12/13, Express<br>
-- Styles: Tailwind, Radix UI, MUI, Figma<br />
-- Scripts: JavaScript, TypeScript, Python<br />
-- Sources: GraphQL, RESTful, Markdown<br />
-- Deployment: Vercel, AWS, Digital Ocean<br />
-- Devtools: Git, Docker, VSCode<br />
+
 
 <h6>PS: I also go by Hari on various platforms</h6>
 
